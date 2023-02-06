@@ -3,6 +3,6 @@
     <title>PHP Test</title>
 </head>
 <body>
-<?php echo '<p>Hello Worldds</p>'; ?>
+<?php echo '<p>you have been locked</p>'; ?>
 </body>
 </html>
